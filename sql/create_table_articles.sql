@@ -1,4 +1,4 @@
-Create table La_carte(
+Create table articles (
             ArticleID INT AUTO_INCREMENT NOT NULL primary key,
             Nom_article varchar(100),
             Categorie varchar(50),
