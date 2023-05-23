@@ -9,8 +9,8 @@ class Connection {
     {
         return new PDO(
             'mysql:host=127.0.0.1;dbname=restaurant;charset=utf8',
-            'restaurant',
-            'ax8r9dhacham123', [
+            'root',
+            'Tahadam.2106', [
                 PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
             ]
         );

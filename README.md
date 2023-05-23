@@ -75,5 +75,23 @@ create table users (
 );
 ```
 
-Dans le dossier sql situé à la racine du projet veuillez jouez les requêtes fournies une à une.
+Dans le dossier sql situé à la racine du projet veuillez jouez les requêtes fournies une à une.(Attention il faut utiliser tous les fichier sql)
+
+
+- Cloner le repository git
+
+```
+git clone https://github.com/Loubnamhs/Restaurant-projet.git
+```
+
+- Installer Composer
+
+- Installer Altorouter
+
+- Installer Whoops
+
+- Installer pdo-mysql
+
+- Configurer le fichier php.ini
+
 

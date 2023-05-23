@@ -10,9 +10,8 @@ Authentication::check();
 $title = "reservation";
 $pdo = Connection::getPDO();
 
-$query = $pdo->query('SELECT * FROM reservations');
+$query = $pdo->query('SELECT * FROM Reservations');
 $reservations = $query->fetchAll(PDO::FETCH_CLASS, Reservation::class);
-
 
 ?>
 

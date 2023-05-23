@@ -23,7 +23,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="/">Restaurant Le Quai Antique</a>
+      <a class="navbar-brand" href="/"><img src="static/image/logo-png.png" height="45px"/></a>
     </div>
     
 
